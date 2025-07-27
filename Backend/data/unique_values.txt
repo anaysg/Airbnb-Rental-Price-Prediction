@@ -1,0 +1,42 @@
+data_dict = {
+    "property_type": [
+        "Apartment", "House", "Condominium", "Loft", "Townhouse", "Hostel", "Guest suite",
+        "Bed & Breakfast", "Bungalow", "Guesthouse", "Dorm", "Other", "Camper/RV", "Villa",
+        "Boutique hotel", "Timeshare", "In-law", "Boat", "Serviced apartment", "Castle",
+        "Cabin", "Treehouse", "Tipi", "Vacation home", "Tent", "Hut", "Casa particular",
+        "Chalet", "Yurt", "Earth House", "Parking Space", "Train", "Cave", "Lighthouse", "Island"
+    ],
+    "room_type": [
+        "Entire home/apt", "Private room", "Shared room"
+    ],
+    "accommodates": [
+        3, 7, 5, 4, 2, 6, 8, 1, 9, 10, 16, 11, 12, 14, 13, 15
+    ],
+    "bathrooms": [
+        1.0, 1.5, 2.0, 2.5, 3.0, 0.5, 4.5, 5.0, 0.0, 4.0, 3.5, 5.5, 7.5, 6.0, 8.0, 7.0, 6.5
+    ],
+    "bed_type": [
+        "Real Bed", "Futon", "Pull-out Sofa", "Couch", "Airbed"
+    ],
+    "cancellation_policy": [
+        "strict", "moderate", "flexible", "super_strict_30", "super_strict_60"
+    ],
+    "cleaning_fee": [
+        True, False
+    ],
+    "city": [
+        "NYC", "SF", "DC", "LA", "Chicago", "Boston"
+    ],
+    "instant_bookable": [
+        "f", "t"
+    ],
+    "bedrooms": [
+        1.0, 3.0, 2.0, 0.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0
+    ],
+    "beds": [
+        1.0, 3.0, 2.0, 7.0, 4.0, 6.0, 5.0, 10.0, 8.0, 16.0, 9.0, 13.0, 12.0, 11.0, 14.0, 15.0, 0.0, 18.0
+    ],
+    "amenities_count": [
+        5, 8, 10, 7, 9, 6, 4, 3, 0, 2, 1
+    ]
+}

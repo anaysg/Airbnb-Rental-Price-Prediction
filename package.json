@@ -1,0 +1,20 @@
+{
+  "name": "airbnb-price-prediction-app",
+  "version": "1.0.0",
+  "description": "Airbnb Price Prediction Fullstack Application",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "install": "cd frontend && npm install",
+    "start": "cd frontend && npm start",
+    "dev": "cd frontend && npm start"
+  },
+  "keywords": [
+    "airbnb",
+    "price-prediction",
+    "machine-learning",
+    "fastapi",
+    "react"
+  ],
+  "author": "tkarim45",
+  "license": "MIT"
+}
